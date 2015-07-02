@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[crrkit01 Blog]]></title>
+  <title><![CDATA[crrkit01]]></title>
   <link href="http://crrkit01.github.io/atom.xml" rel="self"/>
   <link href="http://crrkit01.github.io/"/>
-  <updated>2015-07-02T17:20:26-04:00</updated>
+  <updated>2015-07-02T17:21:15-04:00</updated>
   <id>http://crrkit01.github.io/</id>
   <author>
     <name><![CDATA[crrkit01]]></name>
